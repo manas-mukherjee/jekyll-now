@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Manas Mukherjee
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Developer, Data Enthusiast, ML Student, Fav language - Java(App Dev), Python(ML/Scripting)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/4545454?v=4&amp;u=c100e3b5037a799bf131155b044598ccfca26b71&amp;s=200
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://manas-mukherjee.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
